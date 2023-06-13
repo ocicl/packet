@@ -1,0 +1,10 @@
+* packet
+
+A simple Common Lisp binary serializer
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fjames86/packet.git   |
+| commit  | 1745a89  |
+| systems | packet |
+|---------+-------------------------------------------|
+
